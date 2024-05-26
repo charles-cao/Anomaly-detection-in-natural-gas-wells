@@ -30,5 +30,8 @@ pip install -r requirements.txt
 - `argument`为该算法的参数，详情见`./config`中对应算法的参数。
 
 之后运行
-```python run_algorithm.py -r demo_config.json```
+```
+python run_algorithm.py -r demo_config.json
+
+```
 
