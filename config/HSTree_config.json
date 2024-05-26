@@ -1,0 +1,200 @@
+[
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        },
+    {
+            "name": "HSTree",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "num_trees": 20,
+                "max_depth": 10
+            }
+        }
+]

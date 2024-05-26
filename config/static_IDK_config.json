@@ -1,0 +1,1502 @@
+[
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 2,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 3,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 5,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 7,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 11,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 13,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 17,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 19,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 23,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 29,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 31,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 37,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 41,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 43,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 47,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 53,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 59,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 61,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 67,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 71,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 73,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 79,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 83,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 89,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "psi": 97,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 2,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 3,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 5,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 7,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 11,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 13,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 17,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 19,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 23,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 29,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 31,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 37,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 41,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 43,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 47,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 53,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 59,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 61,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 67,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 71,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 73,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 79,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 83,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 89,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "psi": 97,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 2,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 3,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 5,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 7,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 11,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 13,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 17,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 19,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 23,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 29,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 31,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 37,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 41,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 43,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 47,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 53,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 59,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 61,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 67,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 71,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 73,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 79,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 83,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 89,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "psi": 97,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 2,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 3,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 5,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 7,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 11,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 13,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 17,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 19,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 23,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 29,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 31,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 37,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 41,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 43,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 47,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 53,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 59,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 61,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 67,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 71,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 73,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 79,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 83,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 89,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "psi": 97,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 2,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 3,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 5,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 7,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 11,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 13,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 17,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 19,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 23,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 29,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 31,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 37,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 41,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 43,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 47,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 53,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 59,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 61,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 67,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 71,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 73,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 79,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 83,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 89,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "psi": 97,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 2,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 3,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 5,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 7,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 11,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 13,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 17,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 19,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 23,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 29,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 31,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 37,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 41,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 43,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 47,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 53,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 59,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 61,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 67,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 71,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 73,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 79,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 83,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 89,
+                "t": 100
+            }
+        },
+    {
+            "name": "static_IDK",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "psi": 97,
+                "t": 100
+            }
+        }
+]

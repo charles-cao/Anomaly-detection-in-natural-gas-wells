@@ -1,0 +1,38 @@
+[
+    {
+            "name": "static_OCSVM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result"
+        },
+    {
+            "name": "static_OCSVM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result"
+        },
+    {
+            "name": "static_OCSVM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result"
+        },
+    {
+            "name": "static_OCSVM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result"
+        },
+    {
+            "name": "static_OCSVM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result"
+        },
+    {
+            "name": "static_OCSVM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result"
+        }
+]

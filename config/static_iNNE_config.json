@@ -1,0 +1,1502 @@
+[
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 2,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 3,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 5,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 7,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 11,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 13,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 17,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 19,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 23,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 29,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 31,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 37,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 41,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 43,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 47,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 53,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 59,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 61,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 67,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 71,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 73,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 79,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 83,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 89,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "max_samples": 97,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 2,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 3,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 5,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 7,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 11,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 13,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 17,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 19,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 23,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 29,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 31,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 37,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 41,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 43,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 47,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 53,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 59,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 61,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 67,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 71,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 73,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 79,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 83,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 89,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "max_samples": 97,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 2,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 3,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 5,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 7,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 11,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 13,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 17,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 19,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 23,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 29,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 31,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 37,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 41,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 43,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 47,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 53,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 59,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 61,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 67,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 71,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 73,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 79,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 83,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 89,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "max_samples": 97,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 2,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 3,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 5,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 7,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 11,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 13,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 17,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 19,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 23,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 29,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 31,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 37,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 41,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 43,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 47,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 53,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 59,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 61,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 67,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 71,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 73,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 79,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 83,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 89,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "max_samples": 97,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 2,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 3,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 5,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 7,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 11,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 13,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 17,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 19,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 23,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 29,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 31,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 37,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 41,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 43,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 47,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 53,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 59,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 61,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 67,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 71,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 73,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 79,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 83,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 89,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "max_samples": 97,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 2,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 3,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 5,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 7,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 11,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 13,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 17,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 19,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 23,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 29,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 31,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 37,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 41,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 43,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 47,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 53,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 59,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 61,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 67,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 71,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 73,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 79,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 83,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 89,
+                "n_estimators": 100
+            }
+        },
+    {
+            "name": "static_iNNE",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "max_samples": 97,
+                "n_estimators": 100
+            }
+        }
+]

@@ -1,0 +1,380 @@
+[
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 100,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 200,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 300,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 100,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 200,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 300,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 100,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 200,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 300,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 100,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 200,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 300,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 100,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 200,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 300,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 100,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 200,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        },
+    {
+            "name": "ARCUS",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "model_type": "RAPP",
+                "inf_type": "ADP",
+                "seed": 0,
+                "gpu": "0",
+                "batch_size": 300,
+                "min_batch_size": 32,
+                "init_epoch": 5,
+                "intm_epoch": 1,
+                "hidden_dim": 24,
+                "layer_num": 3,
+                "learning_rate": 1e-4,
+                "reliability_thred": 0.95,
+                "similarity_thred": 0.80
+            }
+        }
+]

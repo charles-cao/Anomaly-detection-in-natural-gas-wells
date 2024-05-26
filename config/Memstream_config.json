@@ -1,0 +1,722 @@
+[
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 2,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 4,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 6,
+                "memlen": 300
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 100
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 200
+            }
+        },
+    {
+            "name": "Memstream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "beta": 8,
+                "memlen": 300
+            }
+        }
+]

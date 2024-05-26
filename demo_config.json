@@ -1,0 +1,35 @@
+[
+    {
+        "name": "iCID",
+        "input path": "dataset",
+        "input file": "gas2",
+        "output path": "result",
+        "argument":{
+            "psi": 2,
+            "t": 100,
+            "window_size": 192
+        }
+    },
+    {
+        "name": "iCID",
+        "input path": "dataset",
+        "input file": "gas4",
+        "output path": "result",
+        "argument":{
+            "psi": 3,
+            "t": 100,
+            "window_size": 192
+        }
+    },
+    {
+        "name": "iCID",
+        "input path": "dataset",
+        "input file": "gas5",
+        "output path": "result",
+        "argument":{
+            "psi": 3,
+            "t": 100,
+            "window_size": 96
+        }
+    }
+]

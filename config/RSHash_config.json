@@ -1,0 +1,1946 @@
+[
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.01,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.015,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 100,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 200,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 100,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 200,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        },
+    {
+            "name": "RSHash",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "sampling_points": 300,
+                "decay": 0.02,
+                "num_components": 300,
+                "num_hash_fns": 1
+            }
+        }
+]

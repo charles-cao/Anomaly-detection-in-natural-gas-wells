@@ -1,0 +1,218 @@
+[
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 100
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 200
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 300
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 100
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 200
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 300
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 100
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 200
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 300
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 100
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 200
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 300
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 100
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 200
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 300
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 100
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 200
+            }
+        },
+    {
+            "name": "xStream",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_components": 50,
+                "n_chains": 50,
+                "depth": 15,
+                "window_size": 300
+            }
+        }
+]

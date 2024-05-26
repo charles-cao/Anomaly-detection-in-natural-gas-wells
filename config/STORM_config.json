@@ -1,0 +1,1262 @@
+[
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.001
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.00316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.01
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.0316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 0.316
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 100,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 200,
+                "max_radius": 1
+            }
+        },
+    {
+            "name": "STORM",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "window_size": 300,
+                "max_radius": 1
+            }
+        }
+]

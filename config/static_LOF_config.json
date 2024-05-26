@@ -1,0 +1,1352 @@
+[
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 11
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 13
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 17
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 19
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 23
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 29
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 31
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 37
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 41
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 43
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 47
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 53
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 59
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 61
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 67
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 71
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 73
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 79
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 83
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 89
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 97
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 11
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 13
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 17
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 19
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 23
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 29
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 31
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 37
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 41
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 43
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 47
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 53
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 59
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 61
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 67
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 71
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 73
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 79
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 83
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 89
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 97
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 11
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 13
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 17
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 19
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 23
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 29
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 31
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 37
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 41
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 43
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 47
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 53
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 59
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 61
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 67
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 71
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 73
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 79
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 83
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 89
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 97
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 11
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 13
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 17
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 19
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 23
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 29
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 31
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 37
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 41
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 43
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 47
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 53
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 59
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 61
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 67
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 71
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 73
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 79
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 83
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 89
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 97
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 11
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 13
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 17
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 19
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 23
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 29
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 31
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 37
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 41
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 43
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 47
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 53
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 59
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 61
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 67
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 71
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 73
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 79
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 83
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 89
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 97
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 11
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 13
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 17
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 19
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 23
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 29
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 31
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 37
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 41
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 43
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 47
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 53
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 59
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 61
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 67
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 71
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 73
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 79
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 83
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 89
+            }
+        },
+    {
+            "name": "static_LOF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 97
+            }
+        }
+]

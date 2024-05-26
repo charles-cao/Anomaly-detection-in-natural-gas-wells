@@ -1,0 +1,218 @@
+[
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_bins": 5
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_bins": 10
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_bins": 15
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_bins": 20
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_bins": 5
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_bins": 10
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_bins": 15
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_bins": 20
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_bins": 5
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_bins": 10
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_bins": 15
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_bins": 20
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_bins": 5
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_bins": 10
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_bins": 15
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_bins": 20
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_bins": 5
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_bins": 10
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_bins": 15
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_bins": 20
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_bins": 5
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_bins": 10
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_bins": 15
+            }
+        },
+    {
+            "name": "static_LODA",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_bins": 20
+            }
+        }
+]

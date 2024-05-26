@@ -1,0 +1,3962 @@
+[
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 4,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 6,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 8,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 4,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 6,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 8,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 10,
+                "tree_size": 300
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 100
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 200
+            }
+        },
+    {
+            "name": "RRCF",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "num_trees": 10,
+                "shingle_size": 12,
+                "tree_size": 300
+            }
+        }
+]

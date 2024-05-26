@@ -1,0 +1,488 @@
+[
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 4
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 6
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 8
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 9
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas1",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 10
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 4
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 6
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 8
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 9
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas2",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 10
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 4
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 6
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 8
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 9
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas3",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 10
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 4
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 6
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 8
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 9
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas4",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 10
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 4
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 6
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 8
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 9
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas5",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 10
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 2
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 3
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 4
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 5
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 6
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 7
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 8
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 9
+            }
+        },
+    {
+            "name": "static_KNN",
+            "input path": "dataset",
+            "input file": "gas6",
+            "output path": "result",
+            "argument":{
+                "n_neighbors": 10
+            }
+        }
+]
