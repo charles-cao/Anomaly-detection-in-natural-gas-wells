@@ -32,6 +32,44 @@ pip install -r requirements.txt
 之后运行
 ```
 python run_algorithm.py -r demo_config.json
-
 ```
 
+
+
+# How does it work?
+
+```
+pip install -r requirements.txt
+```
+
+Start with the configuration file, for demo see `. /demo_config.json`.
+
+- `name` is the name of the algorithm
+- `input path` is the root path of the input dataset.
+- `input file` is the name of the input dataset
+
+The format is
+
+```
++-- dataset
+|   +-- csv
+|   |   +-- gas1.csv
+|   |   +-- gas2.csv
+|   +-- mat
+|   |   +-- gas1.mat
+|   |   +-- gas2.mat
+```
+
+The `.csv` file is a comma-delimited `.csv` file, with the penultimate column as a label and the penultimate column as a drift identifier, which is set to 0 here.
+
+The `.mat` file is a MATLAB `.mat` file, `Y` is the data, `L` is the label, and `C` is the drift identifier, which is set to 0 here.
+
+- `output path` is the output result path. The filenames of the output file are separated by underscores, the first item is the name of the algorithm, the second item is the AUC metrics, and the third item is the timestamp, the output file saves the anomaly scores for each point.
+- The `argument` is the parameter for the algorithm, as detailed in `. /config` for the parameters of the corresponding algorithm.
+
+Afterwards run
+```
+python run_algorithm.py -r demo_config.json
+```
+
+Translated with DeepL.com (free version)
