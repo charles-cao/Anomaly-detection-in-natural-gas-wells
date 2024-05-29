@@ -71,5 +71,3 @@ Afterwards run
 ```
 python run_algorithm.py -r demo_config.json
 ```
-
-Translated with DeepL.com (free version)
