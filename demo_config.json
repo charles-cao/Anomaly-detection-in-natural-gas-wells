@@ -65,10 +65,10 @@
         "input file": "gas6",
         "output path": "result",
         "argument":{
-            "seed": 0,
+            "seed": 31,
             "psi": 2,
             "t": 100,
-            "window_size": 192
+            "window_size": 48
         }
     }
 ]
