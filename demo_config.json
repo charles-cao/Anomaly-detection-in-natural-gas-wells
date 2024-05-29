@@ -14,61 +14,12 @@
     {
         "name": "iCID",
         "input path": "dataset",
-        "input file": "gas2",
+        "input file": "gas1",
         "output path": "result",
         "argument":{
-            "seed": 29,
             "psi": 2,
             "t": 100,
-            "window_size": 256
-        }
-    },
-    {
-        "name": "iCID",
-        "input path": "dataset",
-        "input file": "gas3",
-        "output path": "result",
-        "argument":{
-            "seed": 43,
-            "psi": 3,
-            "t": 100,
-            "window_size": 48
-        }
-    },
-    {
-        "name": "iCID",
-        "input path": "dataset",
-        "input file": "gas4",
-        "output path": "result",
-        "argument":{
-            "seed": 49,
-            "psi": 17,
-            "t": 100,
-            "window_size": 192
-        }
-    },
-    {
-        "name": "iCID",
-        "input path": "dataset",
-        "input file": "gas5",
-        "output path": "result",
-        "argument":{
-            "seed": 33,
-            "psi": 2,
-            "t": 100,
-            "window_size": 96
-        }
-    },
-    {
-        "name": "iCID",
-        "input path": "dataset",
-        "input file": "gas6",
-        "output path": "result",
-        "argument":{
-            "seed": 0,
-            "psi": 2,
-            "t": 100,
-            "window_size": 192
+            "window_size": 384
         }
     }
 ]
