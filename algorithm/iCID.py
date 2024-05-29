@@ -143,7 +143,7 @@ class IKMapper_mix():
 
 
 def main(config):
-    np.random.seed(0)
+    np.random.seed(config["argument"]['seed'])
     dl = np.loadtxt(
         f'{os.path.join(config["input path"], "csv", config["input file"]+".csv")}', delimiter=',')
     data, label = dl[:, :-2], dl[:, -2]
